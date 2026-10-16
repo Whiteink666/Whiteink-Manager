@@ -1,4 +1,12 @@
 {
   "version": 1,
-  "wallpapers": []
+  "wallpapers": [
+    {
+      "id": "yumu1",
+      "name": "羽睦1",
+      "file": "yumu1.jpg",
+      "author": "1215kaeru（Kuromu）",
+      "source": "来源于网络"
+    }
+  ]
 }
